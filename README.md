@@ -1,2 +1,2 @@
-# Deep-Learning-Projects-for-Learning
-Deep Learning Projects for learning and for fun
+
+使用Python实现Softmax多分类
